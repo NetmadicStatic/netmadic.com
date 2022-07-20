@@ -564,6 +564,15 @@ section {
   margin: 40px 0;
 }
 
+.hero p {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.2;
+  color: #fff;
+  font-family: var(--font-secondary);
+}
+
 .hero .btn-get-started {
   font-family: var(--font-secondary);
   font-weight: 500;
